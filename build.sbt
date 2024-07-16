@@ -1,27 +1,28 @@
-lazy val root = (project in file("."))
-  .aggregate(core, app)
-  .settings(
-    name := "my-graph-project",
-    version := "0.1.0",
-    scalaVersion := "3.2.0",
-    publishArtifact := false
+lazy val commonSettings = Seq(
+  scalaVersion := "2.12.18", // Remplacez par votre version de Scala
+  libraryDependencies ++= Seq(
+    "dev.zio" %% "zio" % "2.0.0",
+    "dev.zio" %% "zio-json" % "0.2.0",
+    "org.scalatest" %% "scalatest" % "3.2.9" % Test
   )
+)
 
 lazy val core = (project in file("core"))
   .settings(
     name := "core",
-    scalaVersion := "3.2.0",
-    libraryDependencies ++= Seq(
-      "org.scalatest" %% "scalatest" % "3.2.9" % Test
-    )
+    commonSettings
   )
 
 lazy val app = (project in file("app"))
-  .dependsOn(core)
   .settings(
     name := "app",
-    scalaVersion := "3.2.0",
-    libraryDependencies ++= Seq(
-      "dev.zio" %% "zio" % "2.0.0"
-    )
+    commonSettings
+  )
+  .dependsOn(core)
+
+lazy val root = (project in file("."))
+  .aggregate(core, app)
+  .settings(
+    name := "root",
+    commonSettings
   )
