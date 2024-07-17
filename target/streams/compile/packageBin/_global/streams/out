@@ -1,0 +1,125 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\functionalprogramming_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\CycleDetection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\CycleDetection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\CycleDetection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\CycleDetection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\CycleDetection.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\CycleDetection.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Dijkstra$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Dijkstra$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Dijkstra.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Dijkstra.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Dijkstra.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Dijkstra.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\DirectedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\DirectedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\DirectedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\DirectedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\DirectedGraph.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\DirectedGraph.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Edge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Edge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Edge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Edge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Edge.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Edge.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\FloydWarshall$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\FloydWarshall$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\FloydWarshall.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\FloydWarshall.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\FloydWarshall.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\FloydWarshall.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Graph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Graph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Graph.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Graph.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$DirectedGraph$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$DirectedGraph$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$DirectedGraph$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$DirectedGraph$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$DirectedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$DirectedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$DirectedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$DirectedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$Edge$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$Edge$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$Edge$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$Edge$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$Edge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$Edge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$Edge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$Edge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$Node$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$Node$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$Node$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$Node$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$WeightedEdge$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$WeightedEdge$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$WeightedEdge$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$WeightedEdge$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$WeightedEdge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$WeightedEdge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$WeightedEdge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$WeightedEdge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$WeightedGraph$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$WeightedGraph$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$WeightedGraph$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$WeightedGraph$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$WeightedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$WeightedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson$WeightedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson$WeightedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphJson.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphJson.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphViz$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphViz$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphViz$GraphVizOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphViz$GraphVizOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphViz.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphViz.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\GraphViz.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\GraphViz.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\TopologicalSort$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\TopologicalSort$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\TopologicalSort.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\TopologicalSort.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\TopologicalSort.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\TopologicalSort.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\UndirectedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\UndirectedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\UndirectedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\UndirectedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\UndirectedGraph.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\UndirectedGraph.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\WeightedEdge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\WeightedEdge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\WeightedEdge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\WeightedEdge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\WeightedEdge.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\WeightedEdge.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\WeightedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\WeightedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\WeightedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\WeightedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\mygraph\WeightedGraph.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\user\Desktop\Nouveau dossier (2)\target\scala-3.3.3\classes\com\mygraph\WeightedGraph.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

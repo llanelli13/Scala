@@ -1,0 +1,10 @@
+#Successful Tests
+#Mon Jul 15 12:05:01 CEST 2024
+com.mygraph.TopologicalSortSpec=1721037901450
+com.mygraph.GraphJsonSpec=1721037901567
+com.mygraph.DijkstraSpec=1721037901450
+com.mygraph.CycleDetectionSpec=1721037901450
+com.mygraph.FloydWarshallSpec=1721037901450
+com.mygraph.GraphSpec=1721037901450
+com.mygraph.DirectedGraphSpec=1721037901450
+com.mygraph.GraphVizSpec=1721037901452

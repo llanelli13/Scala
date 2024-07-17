@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 8 products, 8 sources, 8 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/test/scala/com/mygraph/DijkstraSpec.scala, ${BASE}/src/test/scala/com/mygraph/GraphVizSpec.scala, ${BASE}/src/test/scala/com/mygraph/FloydWarshallSpec.scala, ${BASE}/src/test/scala/com/mygraph/DirectedGraphSpec.scala, ${BASE}/src/test/scala/com/mygraph/GraphSpec.scala, ${BASE}/src/test/scala/com/mygraph/TopologicalSortSpec.scala, ${BASE}/src/test/scala/com/mygraph/GraphJsonSpec.scala, ${BASE}/src/test/scala/com/mygraph/CycleDetectionSpec.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

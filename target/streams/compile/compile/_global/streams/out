@@ -1,0 +1,129 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E161] Naming Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:9:0 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m9 |[0m[33mobject[0m [35mMain[0m [33mextends[0m [35mZIOAppDefault[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mMain is already defined as [33mobject[0m [35mMain[0m in /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/Main.scala[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/Dijkstra.scala:6:29 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m6 |[0m  [33mdef[0m [36mshortestPath[0m[[35mV[0m]([36mgraph[0m: [35mWeightedGraph[0m[[35mV[0m], [36mstart[0m: [35mV[0m): [35mMap[0m[[35mV[0m, [35mDouble[0m] = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m                             ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m                             Not found: type WeightedGraph[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/FloydWarshall.scala:4:30 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m4 |[0m  [33mdef[0m [36mshortestPaths[0m[[35mV[0m]([36mgraph[0m: [35mWeightedGraph[0m[[35mV[0m]): [35mMap[0m[([35mV[0m, [35mV[0m), [35mDouble[0m] = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m                              ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m                              Not found: type WeightedGraph[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E053] Type Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/Main.scala:61:17 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m61 |[0m  [33mdef[0m [36mdfs[0m([36mgraph[0m: [35mDirectedGraph[0m[[35mString[0m], [36mstart[0m: [35mString[0m): [35mList[0m[[35mString[0m] = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                 ^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m       com.mygraph.GraphJson.DirectedGraph does not take type parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E053] Type Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/Main.scala:79:17 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m79 |[0m  [33mdef[0m [36mbfs[0m([36mgraph[0m: [35mDirectedGraph[0m[[35mString[0m], [36mstart[0m: [35mString[0m): [35mList[0m[[35mString[0m] = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                 ^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m       com.mygraph.GraphJson.DirectedGraph does not take type parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:12:35 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m12 |[0m  [33mval[0m [36mdirectedGraph[0m = DirectedGraph[[35mString[0m](Map([0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                      ^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m      [33mmethod[0m [35mapply[0m in [33mobject[0m [35mDirectedGraph[0m does not take type parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:20:35 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m  [33mval[0m [36mweightedGraph[0m = WeightedGraph[[35mString[0m](Map([0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                      ^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m      [33mmethod[0m [35mapply[0m in [33mobject[0m [35mWeightedGraph[0m does not take type parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:31:42 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m31 |[0m      _ <- printLine([31m"Graph Vertices: "[0m + directedGraph.vertices.mkString([31m", "[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                          ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to directedGraph is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E053] Type Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:61:17 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m61 |[0m  [33mdef[0m [36mdfs[0m([36mgraph[0m: [35mDirectedGraph[0m[[35mString[0m], [36mstart[0m: [35mString[0m): [35mList[0m[[35mString[0m] = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                 ^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m       com.mygraph.GraphJson.DirectedGraph does not take type parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:32:38 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m32 |[0m      _ <- printLine([31m"DFS from A: "[0m + dfs(directedGraph, [31m"A"[0m).mkString([31m", "[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                      ^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to dfs is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:32:42 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m32 |[0m      _ <- printLine([31m"DFS from A: "[0m + dfs(directedGraph, [31m"A"[0m).mkString([31m", "[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                          ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to directedGraph is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E053] Type Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:79:17 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m79 |[0m  [33mdef[0m [36mbfs[0m([36mgraph[0m: [35mDirectedGraph[0m[[35mString[0m], [36mstart[0m: [35mString[0m): [35mList[0m[[35mString[0m] = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                 ^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m       com.mygraph.GraphJson.DirectedGraph does not take type parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:33:38 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m33 |[0m      _ <- printLine([31m"BFS from A: "[0m + bfs(directedGraph, [31m"A"[0m).mkString([31m", "[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                      ^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to bfs is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:33:42 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m33 |[0m      _ <- printLine([31m"BFS from A: "[0m + bfs(directedGraph, [31m"A"[0m).mkString([31m", "[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                          ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to directedGraph is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:34:52 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m34 |[0m      _ <- printLine([31m"GraphViz representation:\n"[0m + directedGraph.toGraphViz)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                    ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to directedGraph is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:38:42 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m      _ <- printLine([31m"Graph Vertices: "[0m + weightedGraph.vertices.mkString([31m", "[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                          ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to weightedGraph is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:42:58 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m42 |[0m      dijkstraResult <- ZIO.succeed(Dijkstra.shortestPath(weightedGraph, [31m"A"[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                          ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to weightedGraph is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:49:69 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m49 |[0m      floydWarshallResult <- ZIO.succeed(FloydWarshall.shortestPaths(weightedGraph))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                                     ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to weightedGraph is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E049] Reference Error: /Users/dieuveillesuthimpounkouonkoud/Documents/GitHub/2023-server-gros-test-socializus-eu/Webview/FunctionalProg/FunctionalProgramming/src/main/scala/com/mygraph/WeightedGraph.scala:56:70 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m56 |[0m      _ <- printLine([31m"GraphViz representation of Weighted Graph:\n"[0m + weightedGraph.toGraphViz)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                                      ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             Reference to weightedGraph is ambiguous.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             It is both defined in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                             and inherited subsequently in [33mobject[0m [35mMain$2[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m19 errors found[0m

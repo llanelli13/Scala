@@ -1,0 +1,56 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.mygraph.GraphJsonSpec, org.scalatest.tools.Framework$$anon$1@677e74e2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.mygraph.GraphVizSpec, org.scalatest.tools.Framework$$anon$1@677e74e2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.mygraph.DirectedGraphSpec, org.scalatest.tools.Framework$$anon$1@677e74e2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.mygraph.CycleDetectionSpec, org.scalatest.tools.Framework$$anon$1@677e74e2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.mygraph.FloydWarshallSpec, org.scalatest.tools.Framework$$anon$1@677e74e2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.mygraph.TopologicalSortSpec, org.scalatest.tools.Framework$$anon$1@677e74e2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.mygraph.GraphSpec, org.scalatest.tools.Framework$$anon$1@677e74e2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.mygraph.DijkstraSpec, org.scalatest.tools.Framework$$anon$1@677e74e2, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGraphVizSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA DirectedGraph[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate correct GraphViz representation[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFloydWarshallSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFloydWarshall[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should find the shortest paths between all pairs of vertices[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCycleDetectionSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCycleDetection[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should detect a cycle in a directed graph[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not detect a cycle in a directed acyclic graph (DAG)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDirectedGraphSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA DirectedGraph[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should add edges correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return vertices correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDijkstraSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDijkstra[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should find the shortest path from the start vertex to all other vertices[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGraphSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA DirectedGraph[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should add edges correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTopologicalSortSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTopologicalSort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sort vertices in topological order[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGraphJsonSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mNode[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly encoded to and decoded from JSON[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEdge[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly encoded to and decoded from JSON[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWeightedEdge[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly encoded to and decoded from JSON[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDirectedGraph[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly encoded to and decoded from JSON[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWeightedGraph[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be correctly encoded to and decoded from JSON[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 279 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 14[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 8, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 14, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.mygraph.CycleDetectionSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.mygraph.DirectedGraphSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.mygraph.DijkstraSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.mygraph.FloydWarshallSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.mygraph.GraphJsonSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.mygraph.GraphVizSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.mygraph.TopologicalSortSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.mygraph.GraphSpec[0m
