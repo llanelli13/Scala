@@ -1,69 +1,55 @@
-# Functional Programming with Scala
+Programmation fonctionnelle avec Scala
+Ce projet illustre divers concepts de programmation fonctionnelle en Scala, avec un focus particulier sur les algorithmes de graphes. Il comprend notamment la recherche en profondeur (DFS), la recherche en largeur (BFS), l'algorithme de Dijkstra pour les plus courts chemins et l'algorithme de Floyd-Warshall pour les plus courts chemins entre toutes les paires. Le projet utilise des graphes dirigés et pondérés en Scala, et intègre ZIO pour la gestion des effets asynchrones.
 
-This project demonstrates various functional programming concepts implemented in Scala, focusing on graph algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), Dijkstra's algorithm for shortest paths, and Floyd-Warshall algorithm for all pairs shortest paths. It includes implementations of directed and weighted graphs using Scala and ZIO for asynchronous effect management.
+Exigences
+Java 17
+Scala 3
+sbt (outil de construction Scala)
+Bibliothèque ZIO
+Aperçu du projet
+Le projet est structuré en plusieurs parties :
 
-## Requirements
+Graphique : Contient les implémentations de DirectedGraph et WeightedGraph en utilisant les collections Scala.
+Algorithmes : Implémente DFS, BFS, l'algorithme de Dijkstra et l'algorithme de Floyd-Warshall.
+Intégration ZIO : Démontre l'utilisation de ZIO pour gérer les effets asynchrones et les erreurs fonctionnelles.
+GraphViz : Fournit des fonctionnalités pour générer des représentations GraphViz des graphes.
+Instructions
+Construire et exécuter
 
-- Java 17
-- Scala 3
-- sbt (Scala Build Tool)
-- ZIO library
+Cloner le dépôt :
 
-## Project Overview
-
-The project consists of several components:
-
-- **Graph**: Contains implementations of DirectedGraph and WeightedGraph using Scala collections.
-- **Algorithms**: Implements DFS, BFS, Dijkstra's algorithm, and Floyd-Warshall algorithm.
-- **ZIO Integration**: Demonstrates usage of ZIO for managing asynchronous effects and functional error handling.
-- **GraphViz**: Provides functionality to generate GraphViz representations of graphs.
-
-## Instructions
-
-### Build and Run
-
-1. **Clone the repository:**
-
+bash
+Copier le code
 git clone https://github.com/CloNTCL/FunctionalProg
+Compiler le projet :
 
-
-2. **Compile the project:**
-
+bash
+Copier le code
 sbt compile
+Exécuter l'application :
 
-
-3. **Run the application:**
-
+bash
+Copier le code
 sbt run
+Exemples d'utilisation
 
+L'application principale (Main.scala) démontre diverses opérations sur les graphes, telles que :
 
-### Usage Examples
+Impression des sommets et des arêtes du graphe.
+Exécution de traversées DFS et BFS à partir d'un sommet de départ.
+Calcul des plus courts chemins avec l'algorithme de Dijkstra.
+Calcul des plus courts chemins entre toutes les paires avec l'algorithme de Floyd-Warshall.
+Génération de représentations GraphViz des graphes.
+Décisions de conception
+Représentation graphique : Utilisation de cartes et ensembles immuables de Scala pour représenter les graphes et leurs arêtes, garantissant la sécurité des threads et la pureté fonctionnelle.
+Implémentations d'algorithmes : Chaque algorithme (DFS, BFS, Dijkstra, Floyd-Warshall) est implémenté sous forme de fonctions pures, mettant l'accent sur les principes de programmation fonctionnelle et l'immuabilité.
+Gestion des erreurs : Utilisation de ZIO pour gérer les effets asynchrones et les erreurs fonctionnelles, garantissant robustesse et fiabilité dans des environnements concurrents.
+Gestion de l'état : L'état du graphe est géré à l'aide de structures de données immuables, assurant la cohérence et éliminant les effets de bord.
+Journalisation : Utilisation de la journalisation simple via printLine pour générer des résultats et des représentations graphiques.
+Essai
+Pour exécuter les tests :
 
-The main application (`Main.scala`) demonstrates various operations on graphs:
-
-- Printing graph vertices and edges.
-- Performing DFS and BFS traversal from a starting vertex.
-- Computing shortest paths using Dijkstra's algorithm.
-- Computing all pairs shortest paths using Floyd-Warshall algorithm.
-- Generating GraphViz representations of graphs.
-
-### Design Decisions
-
-- **Graph Representation**: Used Scala's immutable maps and sets for representing graphs and their edges, ensuring thread safety and functional purity.
-
-- **Algorithm Implementations**: Each algorithm (DFS, BFS, Dijkstra, Floyd-Warshall) is implemented as pure functions, emphasizing functional programming principles and immutability.
-
-- **Error Handling**: ZIO is used for managing asynchronous effects and functional error handling, ensuring robustness in concurrent environments.
-
-- **State Management**: Graph state is managed using immutable data structures, maintaining consistency and eliminating side effects.
-
-- **Logging**: Simple console logging (`printLine`) is used for outputting results and graph representations.
-
-### Testing
-
-1. **Run tests:**
-
+bash
+Copier le code
 sbt test
-
-2. **Test Coverage:**
-The project aims for comprehensive test coverage, ensuring correctness of graph algorithms and ZIO effects handling.
+Couverture des tests : Le projet vise une couverture de tests complète, garantissant l'exactitude des algorithmes de graphes et la gestion des effets ZIO.
