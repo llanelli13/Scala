@@ -1143,3 +1143,4 @@ Caused by: org.eclipse.lsp4j.jsonrpc.MessageIssueException: Message could not be
 2024.07.17 09:43:07 INFO  no build target found for C:\Users\user\Desktop\Nouveau dossier (2)\src\main\scala\com\mygraph\UndirectedGraph.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.07.17 09:43:07 INFO  no build target found for C:\Users\user\Desktop\Nouveau dossier (2)\src\main\scala\com\mygraph\TopologicalSort.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.07.17 09:43:07 INFO  no build target found for C:\Users\user\Desktop\Nouveau dossier (2)\src\main\scala\com\mygraph\TopologicalSort.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.17 09:46:01 INFO  no build target found for C:\Users\user\Desktop\Nouveau dossier (2)\src\main\scala\com\mygraph\TopologicalSort.scala. Using presentation compiler with project's scala-library version: 3.3.3

@@ -20,7 +20,7 @@ Cloner le dépôt :
 
 bash
 Copier le code
-git clone https://github.com/CloNTCL/FunctionalProg
+git clone https://github.com/llanelli13/Scala
 Compiler le projet :
 
 bash
